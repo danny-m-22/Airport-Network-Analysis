@@ -1,3 +1,17 @@
+# U.S. Domestic Airport Network Analysis (2025)
+
+
+Network analysis of U.S. domestic air traffic using BTS T-100 segment data. 
+Includes Louvain community detection, hub dependency analysis, and betweenness 
+centrality visualization.
+
+## Files
+- `analysis.ipynb` — full analysis notebook
+- `index.html` — interactive Folium network map
+- `requirements.txt` — Python dependencies
+
+
+## Data Sources
 Historical data from Bureau of Transportation Statistics: https://www.bts.gov/browse-statistical-products-and-data/bts-publications/data-bank-28ds-t-100-domestic-segment-data
 The December 2025 file was used; this included Jan - Dec of 2025
 
