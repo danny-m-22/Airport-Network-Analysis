@@ -11,3 +11,9 @@ through an intermediate hub is counted once per segment, causing hub airports to
 inflated relative to their true origin-to-destination traffic. Analyses of relative hub importance and network 
 structure remain valid, but absolute passenger figures should be interpreted as segment-level 
 activity rather than end-to-end travel demand.
+
+Folium Map:
+<a href="https://danny-m-22.github.io/Airport-Network-Analysis/">
+  <img width="1097" height="709" alt="Screenshot 2026-04-13 at 10 39 23" src="https://github.com/user-attachments/assets/a503fee9-64fa-43d8-bf66-aaf4224e6c81" />
+</a>
+<p><em>Click the image above to view the interactive airport network map.</em></p>
