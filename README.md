@@ -11,6 +11,7 @@ centrality visualization.
 - `requirements.txt` — Python dependencies
 
 
+
 ## Data Sources
 Historical data from Bureau of Transportation Statistics: https://www.bts.gov/browse-statistical-products-and-data/bts-publications/data-bank-28ds-t-100-domestic-segment-data
 The December 2025 file was used; this included Jan - Dec of 2025
@@ -28,6 +29,6 @@ activity rather than end-to-end travel demand.
 
 Folium Map:
 <a href="https://danny-m-22.github.io/Airport-Network-Analysis/">
-  <img width="1097" height="709" alt="Screenshot 2026-04-13 at 10 39 23" src="https://github.com/user-attachments/assets/a503fee9-64fa-43d8-bf66-aaf4224e6c81" />
+  <img width="1363" height="786" alt="image" src="https://github.com/user-attachments/assets/23b0247f-c3bc-4ae6-a5ea-ad830037fd07" />
 </a>
 <p><em>Click the image above to view the interactive airport network map.</em></p>
