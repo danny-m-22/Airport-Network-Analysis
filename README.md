@@ -29,6 +29,6 @@ activity rather than end-to-end travel demand.
 
 Folium Map:
 <a href="https://danny-m-22.github.io/Airport-Network-Analysis/">
-  <img width="1363" height="786" alt="image" src="https://github.com/user-attachments/assets/23b0247f-c3bc-4ae6-a5ea-ad830037fd07" />
+  <img width="1537" height="880" alt="image" src="https://github.com/user-attachments/assets/4e783e5f-7250-45a5-b783-14bdbfbedcdc" />
 </a>
 <p><em>Click the image above to view the interactive airport network map.</em></p>
